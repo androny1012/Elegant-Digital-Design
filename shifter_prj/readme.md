@@ -14,7 +14,7 @@
     end
     //***********************************************
 
-3.修改./run.bat文件中的"set testbentch_module=tb_xx"
+3.修改run.bat或者run.sh文件中的"set testbentch_module=tb_xx"
   tb_xxs是本tb的模块名字
 
 4.命令行输入./run.bat //  .\run.sh
