@@ -1,4 +1,4 @@
-Author：Qibin Li
+Author：androny
 
 0.指定一个文件夹作为workspace，终端要cd到此处
 
