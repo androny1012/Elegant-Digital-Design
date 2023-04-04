@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Mar 28 08:46:04 2023
+[*]
+[dumpfile] "E:\work\hw\img_process\work\img_box\sim\tb_imgpro.vcd"
+[dumpfile_mtime] "Tue Mar 28 08:45:04 2023"
+[dumpfile_size] 2732149
+[savefile] "E:\work\hw\img_process\work\img_box\sim\tb_imgpro.gtkw"
+[timestart] 823465
+[size] 2880 1659
+[pos] -1 -1
+*-6.017672 823978 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_imgpro.
+[treeopen] tb_imgpro.u.
+[sst_width] 344
+[signals_width] 316
+[sst_expanded] 1
+[sst_vpaned_height] 500
+@28
+tb_imgpro.clk[0]
+tb_imgpro.rst_n[0]
+@22
+tb_imgpro.data_i[23:0]
+@24
+tb_imgpro.addr[31:0]
+@28
+tb_imgpro.u.u_img_rect.hs_i[0]
+tb_imgpro.u.u_img_rect.vs_i[0]
+>-1
+tb_imgpro.u.u_img_rect.de_i[0]
+@24
+>0
+tb_imgpro.u.u_img_rect.col_cnt[10:0]
+tb_imgpro.u.u_img_rect.row_cnt[10:0]
+@28
+tb_imgpro.u.u_img_rect.de_o[0]
+@24
+tb_imgpro.u.u_img_rect.data_o[23:0]
+[pattern_trace] 1
+[pattern_trace] 0
